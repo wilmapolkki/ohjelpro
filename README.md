@@ -13,3 +13,8 @@ D. Vuokaavio: Peliin luodaan vuokaavio, joka esittää pelin päävaiheita ja va
 1. Lataa tai kloonaa tämä repository.
 2. Avaa tiedostot Visual Studio Codessa tai muussa Python-yhteensopivassa editorissa.
 3. Käynnistä peli komennolla `python peli.py`.
+
+## Aliohjelmia 
+1. aloita_peli(): Aloittaa pelin ja kysyy käyttäjältä ensimmäisen valinnan.
+2. valinta(): Esittää haasteen ja odottaa käyttäjän valintaa.
+3. vastaus(): Tarkistaa käyttäjän valinnan ja reagoi sen mukaan.
