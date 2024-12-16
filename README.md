@@ -10,11 +10,12 @@ C. Toteutus: Pelin taustalla on ohjelma, joka hallitsee pelin logiikkaa, valinto
 D. Vuokaavio: Peliin luodaan vuokaavio, joka esittää pelin päävaiheita ja valintojen seurauksia (esim. aloitus, haasteet, valinnat, loppu).
 
 ## Käyttöohjeet
-1. Lataa tai kloonaa tämä repository.
+1. Lataa tämä repositori.
 2. Avaa tiedostot Visual Studio Codessa tai muussa Python-yhteensopivassa editorissa.
 3. Käynnistä peli komennolla `python peli.py`.
 
-## Aliohjelma 
+## Aliohjelmia, joita pelissä  
 1. aloita_peli(): Aloittaa pelin ja kysyy käyttäjältä ensimmäisen valinnan.
 2. valinta(): Esittää haasteen ja odottaa käyttäjän valintaa.
 3. vastaus(): Tarkistaa käyttäjän valinnan ja reagoi sen mukaan.
+4. alku_tarina (): menee eri valintojen mukaan
