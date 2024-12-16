@@ -16,6 +16,7 @@ D. Vuokaavio: Peliin luodaan vuokaavio, joka esittää pelin päävaiheita ja va
 
 ## Aliohjelmia, joita pelissä  
 1. aloita_peli(): Aloittaa pelin ja kysyy käyttäjältä ensimmäisen valinnan.
-2. valinta(): Esittää haasteen ja odottaa käyttäjän valintaa.
-3. vastaus(): Tarkistaa käyttäjän valinnan ja reagoi sen mukaan.
-4. alku_tarina (): menee eri valintojen mukaan
+2. alku_tarina (): menee eri valintojen mukaan
+3. peli_loppu (): hävisit pelin
+4. vasen_polku ()
+5. oikea_polku ()
