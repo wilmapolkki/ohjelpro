@@ -1,5 +1,5 @@
-# ohjelpro
-- Tekstiseikkailupeli (Interactive Text Adventure Game)
+# ohjelmointiprojekti
+## Tekstiseikkailupeli (Interactive Text Adventure Game)
   
 A.Kuvaus: Sovellus on yksinkertainen tekstipohjainen seikkailupeli, jossa käyttäjä tekee valintoja ja ohjelma vastaa niihin tekstillä. Pelissä on erilaisia tarinan haaroja ja tehtäviä, joissa käyttäjä kohtaa erilaisia valintoja ja ratkaisuja.
 
